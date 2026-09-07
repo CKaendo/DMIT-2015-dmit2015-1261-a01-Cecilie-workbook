@@ -23,6 +23,9 @@ public class Circle {
    public double area() {
         return Math.PI * radius * radius;
    }
+   public Circle(double radius) {
+        setRadius(radius);
+   }
 
   public static void main(String[] arg) {
         // Create new circle
