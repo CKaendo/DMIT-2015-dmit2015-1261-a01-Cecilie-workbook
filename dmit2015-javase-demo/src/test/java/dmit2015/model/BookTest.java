@@ -7,8 +7,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class BookTest {
 
-
-
     @Test
     void getPrice_whenBookCreated_shouldReturnCorrectPrice() {
         // Arrange
