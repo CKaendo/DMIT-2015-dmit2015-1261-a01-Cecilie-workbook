@@ -1,4 +1,4 @@
-package dmit2015.dmit2015facesdemo;
+package dmit2015facesdemo;
 
 import java.io.*;
 
